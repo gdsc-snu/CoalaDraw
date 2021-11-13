@@ -1,8 +1,8 @@
 # CoalaDraw
 
-Reserved repository for Winter of Code 2.0 participants.
+Reserved repository for *Winter of Code 2.0* participants.
 
-## Description
+## Description 👨‍💻📑
 
 - Subtitle: A collaborative, real-time drawing and diagramming tool.
 - Difficulty: `Medium`
@@ -21,7 +21,7 @@ Later, we can add texting/voice-chat feature in the app for smoother collaborati
 
 **Note:** These are all my train of thoughts. Feel free to think wild and come up with new features and I've surely missed.
 
-## FAQ
+## FAQ ❓
 
 <details>
   <summary>Do I need to complete all this in WoC 2.0?</summary>
